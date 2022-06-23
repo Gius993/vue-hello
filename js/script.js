@@ -4,7 +4,8 @@ var app = new Vue(
 	{
 		el: '#root',
 		data:{
-			message: 'hy boy'
+			message: 'hy boy',
+			imageSrc: 'it-takes-two-logo.png'
 		}
 	}
 );
